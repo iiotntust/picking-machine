@@ -51,9 +51,3 @@ RS485:
 ![image](https://github.com/iiotntust/picking-machine/assets/56021651/d8b44501-d0db-4c12-b4f1-231d90a45589)
 
 
-
-
-
-parameter:
-
-
