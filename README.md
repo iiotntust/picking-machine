@@ -17,6 +17,7 @@
 
 ## Architecture
 ![螢幕擷取畫面 2024-01-04 130122](https://github.com/iiotntust/picking-machine/assets/56021651/fad4c939-680b-48af-8d30-50da2818b22e)
+### SCH
 ![image](https://github.com/iiotntust/picking-machine/assets/56021651/4498a740-04bb-447d-9105-3e4764153e0c)
 
 
